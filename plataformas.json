@@ -1,0 +1,47 @@
+[
+    {
+        "plataforma": "Lala",
+        "veiculos": [
+            {
+                "veiculo": "Moto",
+                "largura": 35,
+                "altura": 40,
+                "espessura": 30,
+                "peso": 20
+            },
+            {
+                "veiculo": "Fiorino",
+                "largura": 188,
+                "altura": 133,
+                "espessura": 108,
+                "peso": 500
+            },
+            {
+                "veiculo": "Carreta",
+                "largura": 300,
+                "altura": 180,
+                "espessura": 200,
+                "peso": 1500
+            }
+        ]
+    },
+    {
+        "plataforma": "Ogi",
+        "veiculos": [
+            {
+                "veiculo": "Moto",
+                "largura": 52,
+                "altura": 36,
+                "espessura": 52,
+                "peso": 20
+            },
+            {
+                "veiculo": "SUV",
+                "largura": 125,
+                "altura": 80,
+                "espessura": 60,
+                "peso": 200
+            }
+        ]
+    }
+]

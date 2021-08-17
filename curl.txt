@@ -1,0 +1,18 @@
+curl -X POST \
+  'http://127.0.0.1:5000/veiculos' \
+  -H 'Accept: */*' \
+  -H 'Content-Type: application/json' \
+  -d '[
+  {
+    "largura": 125,
+    "altura": 80,
+    "espessura": 60,
+    "peso": 200
+  },
+  {
+    "largura": 125,
+    "altura": 80,
+    "espessura": 60,
+    "peso": 1000
+  }
+]'
